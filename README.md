@@ -1,2 +1,2 @@
-# BlackMagic
-Multiplayer Wizardary Game
+# Prague
+Multiplayer PVP Shooting Game
